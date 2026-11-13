@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task Tracker (Core PHP + MySQL)
 
 A responsive task management application built with core PHP, PDO, MySQL/MariaDB, HTML, CSS and JavaScript.
@@ -204,3 +205,6 @@ If your root account has no password, press Enter when prompted. Adjust paths to
 ### XAMPP MySQL port setting
 
 The supplied `config/database.php` is configured for port `3305`, matching the common custom XAMPP setup used in this project. If your XAMPP Control Panel shows MySQL on port `3306`, change `$port = 3305` to `$port = 3306` in `config/database.php`. Keep the port consistent when importing the SQL database from the command line.
+=======
+# task_tracker
+>>>>>>> cf28007078be5c473b23cc40122b715cd5439cd9
